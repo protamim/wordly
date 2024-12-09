@@ -12,7 +12,7 @@ export const Pages: CollectionConfig = {
       type: 'tabs',
       tabs: [
         {
-          label: 'tab 1',
+          label: 'content',
           fields: [
             {
               name: 'SomeTextField',
